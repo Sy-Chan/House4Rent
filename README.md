@@ -1,2 +1,2 @@
 # House4Rent
-A  Django project.
+A  romm or house rental project in both asp.net and Django project.
